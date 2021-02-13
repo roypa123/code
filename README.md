@@ -1,2 +1,2 @@
 # code
-this is only for coding
+this is only for codin
